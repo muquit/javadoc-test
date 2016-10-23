@@ -1,5 +1,5 @@
 # javadoc-test
-Testing pushing javadoc to gh-pages
+Testing publishing javadocs to gh-pages
 
 # How to generate javadocs and host them on github gh-pages branch
 
