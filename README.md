@@ -1,4 +1,5 @@
 # javadoc-test
 Testing pushing javadoc to gh-pages
 
-[Browser javadocs](./gh-pages/javadoc-test/docs/)
+[Browser javadocs](https://muquit.github.io/javadoc-test/) -
+https://muquit.github.io/javadoc-test/
