@@ -50,4 +50,16 @@ public class JavadocTest
 	{
 		return "Mary Jane";
 	}
+	
+	/**
+	 * Return the address
+	 * 
+	 * @return address
+	 * <p>
+	 * @author muquit@muquit.com - Oct 23, 2016
+	 */
+	public static String getAddress()
+	{
+		return "100 Foo Av";
+	}
 }
