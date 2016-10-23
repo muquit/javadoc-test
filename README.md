@@ -59,7 +59,7 @@ cd ../gh-pages/javadoc-test
 git status
 git add .
 git commit -am'add javadocs'
-git push origin pages
+git push origin gh-pages
 ~~~
 
 * Browse the javadocs at: 
