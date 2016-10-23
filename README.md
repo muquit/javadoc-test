@@ -52,7 +52,7 @@ $ cd ../../JavaDocTest
 $ ./gen_javadoc.sh
 ~~~
 
-* Come back to gh-pages branch and commit the files
+* Come back to the gh-pages branch and commit the generaetd javadocs files
 
 ~~~
 cd ../gh-pages/javadoc-test
